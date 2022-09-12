@@ -5,7 +5,6 @@ Here is the Link: https://zishanhow.github.io/Sorting-Fruits-and-Emoji-Fighter/
 Hi, my name is Zishan. It's about two fun games on one page.
 
 firstOne: It's a fruit for sorting.
-
 secondOne: A game where you fight emojis.
 
 Build those games in [JS] to practice random numbers
