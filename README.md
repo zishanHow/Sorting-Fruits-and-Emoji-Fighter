@@ -1,4 +1,11 @@
-# co2224ee0aa71a2ab76471c1c
+# about me
+
+Here is the Link: 
+
+Hi, my name is Zishan. It's about two fun games on one page.
+
+firstOne: It's a fruit for sorting.
+secondOne: A game where you fight emojis.
 
 ## About Scrimba
 
