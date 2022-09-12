@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #a2d2ff;
+}
+
+/* 
+================================
+        Common styles
+================================
+*/
+.center-fruits-fights {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*   =====  c-b-s-t >{common-both-section-style}  =====   */
+.c-b-s-t {
+    min-height: 320px;
+    height: 40vh;
+    border-radius: 5px;
+    text-shadow: 0px 0px 4px black;
+}
+
+/* olny for section one both fruits shelf */
+.fruits-shelf {
+    border-radius: 10px;
+    height: 30px;
+    min-width: 30px;
+    margin: 5px 0;
+}
+
+/* both button */
+.btn-fruits-fight {
+    margin: 20px;
+    cursor: pointer;
+    border: 0;
+    padding: 8px 16px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+
+/*
+=======================================
+            Section one                 
+=======================================
+*/
+#section-one {
+    background-color: #ff4d6d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+#fruts-header {
+    margin-bottom: -70px;
+    color: #b892ff;
+    font-weight: bolder;
+    text-shadow: 0px 2px 1px black;
+}
+
+#fruit-pera {
+    margin-top: 90px;
+}
+
+/* fruits shelf */
+#apple-shelf {
+    background: lightcoral;
+    margin-top: 20px;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+}
+
+/* fruits button style */
+#fruits-btn {
+    background: #fc2f00;
+    color: #30343f;
+    font-family: inherit;
+    text-shadow: 0px 0px 2px black;
+}
+
+/* === END section one === */
+
+
+/*
+=======================================
+            Section two                 
+=======================================
+*/
+#section-two {
+    margin-top: 10px;
+    color: #e98a1d;
+    font-family: 'Permanent Marker', cursive;
+    background: linear-gradient(white, gray);
+}
+
+#fighter-header {
+    text-shadow: 0px 3px 0px black;
+    line-height: 24px;
+    transform: rotate(-9deg);
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+/*  === stage for emoji's to fight === */
+#stage {
+    width: 100%;
+    height: 60px;
+    padding: 30px 0;
+    font-size: 50px;
+    margin: 0;
+}
+
+/* fight button style */
+#fightButton {
+    margin-top: 90px;
+    background: #e98a1d;
+    color: white;
+    font-family: inherit;
+}
